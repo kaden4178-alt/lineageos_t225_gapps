@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="LineageOS/android_device_samsung_gta7lite" path="device/samsung/gta7lite" remote="github" />
+  <project name="LineageOS/android_vendor_samsung_gta7lite" path="vendor/samsung/gta7lite" remote="github" />
+  <project name="LineageOS/android_kernel_mediatek_mt6768" path="kernel/mediatek/mt6768" remote="github" />
+</manifest>
